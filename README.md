@@ -33,3 +33,7 @@ HTML, CSS, JavaScript – läuft direkt im Browser, ohne Installation.
 
 ---
 Sabrina Preuß · Kauffrau im E-Commerce · Dortmund
+
+## Lizenz
+
+© 2026 Sabrina Preuß. Alle Rechte vorbehalten. Der Code darf angesehen, aber ohne meine Zustimmung nicht kopiert, verändert oder kommerziell genutzt werden. Details in der Datei [LICENSE](LICENSE).
